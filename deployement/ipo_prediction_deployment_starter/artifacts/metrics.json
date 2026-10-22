@@ -1,0 +1,21 @@
+{
+  "test_rows": 70,
+  "features": [
+    "Offer Size USD(M)",
+    "Age of the Firm(Years)",
+    "D2C(0/1)",
+    "Fresh Issue",
+    "Offer for Sale",
+    "Final Issue Price(Rs.)",
+    "Promoter Holding Post-IPO ()",
+    "FII",
+    "DII",
+    "Retail",
+    "Grey Market Premium (GMP) Before Listing",
+    "Subscription Rates (Overall)"
+  ],
+  "mae_inr": 214.42782786722233,
+  "rmse_inr": 367.8877940582337,
+  "r2": 0.4880453694072817,
+  "target_definition": "Price_after_1m is rupee price divided by 1000"
+}
